@@ -1,0 +1,67 @@
+[
+    {
+        "comment": {
+            "medichine": "イリノテカン",
+            "code": "NA",
+            "label": "NA",
+            "start_idx": "3",
+            "end_idx": "10"
+        },
+        "index": "1",
+        "sentence_idx": "14",
+        "url": "http://ameblo.jp/chorus/entry-10704030806.html",
+        "paragraph_idx": "1"
+    },
+    {
+        "comment": {
+            "medichine": "ドセタキセル",
+            "code": "R208",
+            "label": "NA",
+            "start_idx": "4",
+            "end_idx": "14"
+        },
+        "index": "28",
+        "sentence_idx": "6",
+        "url": "https://blog.goo.ne.jp/tsutomu_2436/e/960e68b20064dd7452fbf6f70bdd82a2",
+        "paragraph_idx": "6"
+    },
+    {
+        "comment": {
+            "medichine": "タグリッソ",
+            "code": "R070",
+            "label": "咽頭痛",
+            "start_idx": "15",
+            "end_idx": "19"
+        },
+        "index": "46",
+        "sentence_idx": "2",
+        "url": "https://ameblo.jp/naturaldrifter/entry-12366888101.html",
+        "paragraph_idx": "9"
+    },
+    {
+        "comment": {
+            "medichine": "タグリッソ",
+            "code": "R432",
+            "label": "味覚障害",
+            "start_idx": "138",
+            "end_idx": "141"
+        },
+        "index": "106",
+        "sentence_idx": "2",
+        "url": "https://ameblo.jp/naturaldrifter/entry-12362700081.html",
+        "paragraph_idx": "16"
+    },
+    {
+        "comment": {
+            "medichine": "アバスチン",
+            "code": "NA",
+            "label": "NA",
+            "start_idx": "23",
+            "end_idx": "27"
+        },
+        "index": "344",
+        "sentence_idx": "22",
+        "url": "http://ameblo.jp/suutoru/entry-11933457232.html",
+        "paragraph_idx": "61"
+    }
+]
