@@ -13,10 +13,12 @@ def make_folder(folder_path):
         os.mkdir(folder_path + 'article/')
     except:
         print('article folder is already existing')
+        print('skipping mkdir process ')
     try:
         os.mkdir(folder_path + 'html/')
     except:
         print('html folder is already existing')
+        print('skipping mkdir process ')
 
 
 def get_annotation(folder_path, infile_name):
