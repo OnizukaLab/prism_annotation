@@ -1,5 +1,5 @@
 
-import sys, os, json, re
+import os, json, re
 import time, requests
 from timeout_decorator import timeout, TimeoutError
 from bs4 import BeautifulSoup
