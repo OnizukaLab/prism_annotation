@@ -1,4 +1,5 @@
 # Annotation of Adverse Drug Reactions in Patients’Weblogs
+[[Japanese]](./README_ja.md)
 
 We only distribute metadata of annotations as json files. 
 Please follow the steps below to reconstruct the annotations with full contents. 
