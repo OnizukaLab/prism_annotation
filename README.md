@@ -3,11 +3,11 @@
 
 We only distribute metadata of annotations as json files. 
 Please follow the steps below to reconstruct the annotations with full contents. 
-Basically, you only need to run `run.sh` setting appropriate arguments.
+Basically, you only need to run `run.sh` after setting appropriate arguments.
 
 1. Download the medatada json file.
 2. Create an empty folder and put the medatada json file.
-3. Set arguments of `run.sh`.
+3. Edit arguments of `run.sh`.
     - Set the folder name created in step-2 to `--folder_path`.
     - Set the json file name to `--infile_name`.
     - Set an output file name to `--out_file`. (* extension must be `.json`.)
@@ -16,7 +16,7 @@ Basically, you only need to run `run.sh` setting appropriate arguments.
     - It creates `./folder_path/html/` and `./folder_path/article/` (You may delete these later if not needed).
     - There is a one second interval between `request`.
     Depending on the internet connection, this step may take time. Please be patient.
-5. The json file with full text content is reconstructed.
+5. The json file with full text content will be reconstructed and saved.
     - The location was specified by `--folder_path`.
     - The output file name was specified by `--out_file`.
 
